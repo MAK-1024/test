@@ -11,6 +11,9 @@ void main() {
 
 class MyApp extends StatelessWidget {
   @override
+  // mladmal;fmfm;/fmkaeol;fmawl;/fw;fw;fme;fl
+
+  //helloooo
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
